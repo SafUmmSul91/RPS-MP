@@ -11,7 +11,7 @@ possibleChoices.forEach(possibleChoice => possibleChoice.addEventListener('click
     userChoice = e.target.id;
     userChoiceDisplay.innerHTML = userChoice;
     generateComputerChoice();
-}))
+}));
 
 function generateComputerChoice() {
     const randomNumber = Math.floor(Math.random() * 3) + 1; // or possibleChoice.length
@@ -50,6 +50,6 @@ function getResult() {
     if(computerChoice === 'scissors' && userChoice === 'paper') {
         resultDisplay.innerHTML = "Not quite, buddy!";
     }
-};
+}
 
 
