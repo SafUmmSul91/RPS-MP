@@ -1,0 +1,18 @@
+/* Landing Page */
+.hero {
+    background-image: url('../images/background.png'); 
+}
+
+.hero h1 {
+    font-family: 'Rowdies', cursive; 
+}
+
+.hero .btn-primary {
+    background-color: #AEEBF3; 
+    border-color: #AEEBF3; 
+}
+
+.hero .btn-primary:hover {
+    background-color: #FFDCAB; 
+    border-color: #FFDCAB; 
+}
