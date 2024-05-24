@@ -1,39 +1,53 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+# Rock Paper Scissors Game
 
-Welcome,
+Welcome to Rock Paper Scissors, an online game where you can test your luck against the computer!
 
-This is the Code Institute student template for Codeanywhere. If you are using Gitpod then you need [this template](https://github.com/Code-Institute-Org/gitpod-full-template) instead.  We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+## Description
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Codeanywhere and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **August 30th, 2023**
+This project is a simple web-based implementation of the classic game "Rock Paper Scissors". Players can choose their weapon and see if they can beat the computer.
 
-## Codeanywhere Reminders
+## Installation
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere, in the terminal, type:
+To run this project locally, follow these steps:
 
-`python3 -m http.server`
+1. Clone this repository to your local machine.
+2. Open the project directory in your code editor.
+3. Open `index.html` in your web browser to start the game.
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+## Usage
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere with no-cache, you can use this alias for `python3 -m http.server`.
+1. Once the game is loaded, click on the "Start Game" button to begin.
+2. Choose your weapon (rock, paper, or scissors) by clicking on the corresponding button.
+3. See the computer's choice and the result of the game displayed on the screen.
+4. To play again, click on the "Home" button to return to the landing page.
 
-`http_server`
+## Testing
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+To run tests for this project using Jest:
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+1. Install Jest by running `npm install --save-dev jest`.
+2. Navigate to the `__tests__` directory.
+3. Write test cases for each function in your JavaScript file.
+4. Run tests using the command `npm test`.
 
-In Codeanywhere you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+## Credits
 
-To log into the Heroku toolbelt CLI:
+- **Bootstrap**: Used for styling the user interface.
+- **Google Fonts**: Fonts used in the project.
+- **FontAwesome**: Icons used in the project.
+- **Coolors.co**: Used for generating color palettes.
+- **Canva.com**: Used for creating images and backgrounds.
+- **YouTube & FreeCodeCamp.org**: Sources of inspiration and learning.
+- **CodeInstitute GitHub Repository Template**: Used as a project structure template.
 
-1. Log in to your Heroku account and go to _Account Settings_ in the menu under your avatar.
-2. Scroll down to the _API Key_ and click _Reveal_
-3. Copy the key
-4. In Codeanywhere, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
+## User Stories
 
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
+1. As a player, I want to be able to choose between rock, paper, and scissors.
+2. As a player, I want to see the computer's choice.
+3. As a player, I want to see the result of the game.
+4. As a player, I want to be able to restart the game.
 
----
+## Acknowledgements
 
-Happy coding!
+Special thanks to all the contributors and resources that helped in the development of this project.
+
