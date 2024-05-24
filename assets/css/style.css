@@ -1,18 +1,104 @@
-/* Landing Page */
-.hero {
-    background-image: url('../images/background.png'); 
+
+
+body {
+    font-family: 'Rowdies', sans-serif;
+    background: url('../images/background.png') no-repeat center center fixed;
+    background-size: cover;
+    color: #1D0E0B;
+    text-align: center;
 }
 
-.hero h1 {
-    font-family: 'Rowdies', cursive; 
+
+h1 {
+    font-family: 'Rowdies', cursive;
+    color: #FBDFD8;
+    margin: 20px 0;
 }
 
-.hero .btn-primary {
-    background-color: #AEEBF3; 
-    border-color: #AEEBF3; 
+h2 {
+    font-family: 'Shadows Into Light', cursive;
+    color: #AEEBF3;
+    margin: 10px 0;
 }
 
-.hero .btn-primary:hover {
+#choices img {
+    width: 100px;
+    cursor: pointer;
+    margin: 10px;
+}
+#rock-btn {
+    background-image: url('../images/rock.png');
+    background-size: cover;
+    width: 100px; 
+    height: 100px; 
+    margin: 10px;
+    background-color: #AEEBF3 ;
+    border: #AEEBF3;
+}
+
+#rock-btn:hover {
+    transform: scale(1.1); 
+}
+
+#paper-btn {
+    background-image: url('../images/paperr.png');
+    background-size: cover;
+    width: 100px; 
+    height: 100px; 
+    margin: 10px;
+    background-color: #FBDFD8 ;
+    border: #FFDCAB;
+}
+
+#paper-btn:hover {
+    transform: scale(1.1); 
+}
+
+#scissors-btn {
+    background-image: url('../images/scissors.png');
+    background-size: cover;
+    width: 100px; 
+    height: 100px; 
+    margin: 10px;
+    background-color: #FBA2A2 ;
+    border: #FBA2A2;
+
+}
+
+#scissors-btn:hover {
+    transform: scale(1.1); 
+}
+
+
+#reset-btn {
+    background-color: #1D0E0B;
+    border: none;
+    cursor: pointer;
+    font-size: 24px;
+    margin: 10px 0;
+    border-color: #1D0E0B;
+}
+
+#reset-btn:hover {
+    transform: scale(1.1); 
+    background-color: #FFDCAB;
+}
+
+#home-btn {
+    background-color: #1D0E0B;
+    border: none;
+    cursor: pointer;
+    font-size: 24px;
+    margin: 0px 10px;
+    border-color: #1D0E0B;
+}
+
+#home-btn:hover {
+    transform: scale(1.1);
     background-color: #FFDCAB; 
-    border-color: #FFDCAB; 
+}
+
+#score, #round {
+    font-family: 'Rowdies', sans-serif;
+    color: #FBA2A2;
 }
