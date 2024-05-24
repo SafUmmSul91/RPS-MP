@@ -17,19 +17,22 @@
                 <h1>Welcome to Rock Paper Scissors</h1>
                 <p class="lead">Choose your weapon and see if you can beat the computer.</p>
 
-                <p>Computer Choice: <span id="computer-choice"></span></p>
-                <p>Your Choice: <span id="player-choice"></span></p>
-                <p id="result"></p>
-                
+                <h2>Computer Choice: <span id="computer-choice"></span></h2>
+                <h2>Your Choice: <span id="user-choice"></span></h2>
+
                 <div class="btn" role="group" aria-label="Basic example">
                     <button type="button" class="btn btn-primary btn-lg" id="rock-btn"></button>
                     <button type="button" class="btn btn-primary btn-lg" id="paper-btn"></button>
                     <button type="button" class="btn btn-primary btn-lg" id="scissors-btn"></button>
-                </div>   
+                </div>  
+                
+                <p>Score: <span id="score">0</span></p>
+                <p>Round: <span id="round">0</span></p>
+
                 <span>
                     <div class="btn-vertical mt-3" role="group" aria-label="Basic example">
                         <button type="button" class="btn btn-primary" id="reset-btn" id="reset-btn"><i class="fas fa-rotate-left"></i> Reset</button>
-                        <button type="button" class="btn btn-primary" id="home-btn" id="home-btn"><i class="fas fa-house"></i> Home</button>
+                        <a href="index.html" class="btn btn-primary" id="home-btn"><i class="fas fa-house"></i> Home</a>
                     </div>
                 </span>      
             </div>           
