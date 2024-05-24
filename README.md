@@ -37,15 +37,27 @@ To run tests for this project using Jest:
 ![Button image](images/paperr.png)
 ![Button image](images/scissors.png)
 
-## Credits
+## Languages Used
+
+HTML5
+CSS
+JavaScript
+
+## Frameworks,Libraries & Programs
 
 - **Bootstrap**: Used for styling the user interface.
 - **Google Fonts**: Fonts used in the project.
 - **FontAwesome**: Icons used in the project.
-- **Coolors.co**: Used for generating color palettes.
+- **Coolors.co**: Used for generating color palettes. 
 - **Canva.com**: Used for creating images and backgrounds.
 - **YouTube & FreeCodeCamp.org**: Sources of inspiration and learning.
 - **CodeInstitute GitHub Repository Template**: Used as a project structure template.
+
+## Testing
+
+- W3C HTML [validator.w3.org/nu/]
+- W3C CSS [jigsaw.w3.org/css-validator/#validate_by_input]
+- JSHint [jshint.com/]
 
 ## User Stories
 
