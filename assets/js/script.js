@@ -53,12 +53,4 @@ function getResult() {
     }
 };
 
-function resetGame() {
-    // Clear the result
-    resultDisplay.innerHTML = '';
-    // Clear user choice
-    userChoiceDisplay.innerHTML = '';
-    // Clear computer choice
-    computerChoiceDisplay.innerHTML = '';
-}
 

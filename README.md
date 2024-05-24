@@ -32,6 +32,10 @@ To run tests for this project using Jest:
 ## Styling 
 
 ![Project Styling](images/styling.png)
+![Background](images/background.png)
+![Button image](images/rock.png)
+![Button image](images/paperr.png)
+![Button image](images/scissors.png)
 
 ## Credits
 
