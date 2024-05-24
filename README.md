@@ -29,6 +29,9 @@ To run tests for this project using Jest:
 2. Navigate to the `__tests__` directory.
 3. Write test cases for each function in your JavaScript file.
 4. Run tests using the command `npm test`.
+## Styling 
+
+![Project Styling](images/styling.png)
 
 ## Credits
 
