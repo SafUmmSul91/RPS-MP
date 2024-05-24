@@ -1,5 +1,3 @@
-
-
 body {
     font-family: 'Rowdies', sans-serif;
     background: url('../images/background.png') no-repeat center center fixed;
@@ -57,7 +55,7 @@ p {
     margin: 10px;
 }
 
-#rock-btn {
+#rock {
     background-image: url('../images/rock.png');
     background-size: cover;
     width: 100px; 
@@ -67,11 +65,11 @@ p {
     border: #AEEBF3;
 }
 
-#rock-btn:hover {
+#rock:hover {
     transform: scale(1.1); 
 }
 
-#paper-btn {
+#paper {
     background-image: url('../images/paperr.png');
     background-size: cover;
     width: 100px; 
@@ -81,11 +79,11 @@ p {
     border: #FFDCAB;
 }
 
-#paper-btn:hover {
+#paper:hover {
     transform: scale(1.1); 
 }
 
-#scissors-btn {
+#scissors {
     background-image: url('../images/scissors.png');
     background-size: cover;
     width: 100px; 
@@ -96,7 +94,7 @@ p {
 
 }
 
-#scissors-btn:hover {
+#scissors:hover {
     transform: scale(1.1); 
 }
 
