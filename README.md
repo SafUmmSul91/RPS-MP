@@ -57,12 +57,9 @@ To run tests for this project using Jest:
 
 ## Testing
 
-- W3C HTML [](www.validator.w3.org/nu/)
-- [](assets/images/Nu%20HTML%20Checker%20Index.html.png)[](assets/images/Nu%20HTML%20Checker%20game.html.png)
-- W3C CSS [](www.jigsaw.w3.org/css-validator/#validate_by_input)
--   [](assets/images/W3C%20CSS%20.png)
-- JSHint [](www.jshint.com/)
-- [](assets/images/js%20test%20jshint.png)
+- W3C HTML [](www.validator.w3.org/nu/) [index.html](assets/images/Nu%20HTML%20Checker%20Index.html.png)[game.html](assets/images/Nu%20HTML%20Checker%20game.html.png)
+- W3C CSS [](www.jigsaw.w3.org/css-validator/#validate_by_input) [CSS test](assets/images/W3C%20CSS%20.png)
+- JSHint [](www.jshint.com/) [JS Test](assets/images/js%20test%20jshint.png)
 
 ## User Stories
 
