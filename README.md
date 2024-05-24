@@ -37,6 +37,8 @@ To run tests for this project using Jest:
 - ![Button image](assets/images/paperr.png)
 - ![Button image](assets/images/scissors.png)
 
+1. The game is responsive over a number of devices. ![Responsive](assets/images/Responsive.png)
+
 ## Languages Used
 
 - HTML5
@@ -55,9 +57,9 @@ To run tests for this project using Jest:
 
 ## Testing
 
-- W3C HTML [validator.w3.org/nu/]
-- W3C CSS [jigsaw.w3.org/css-validator/#validate_by_input]
-- JSHint [jshint.com/]
+- W3C HTML [www.validator.w3.org/nu/]
+- W3C CSS [www.jigsaw.w3.org/css-validator/#validate_by_input]
+- JSHint [www.jshint.com/]
 
 ## User Stories
 
