@@ -11,14 +11,44 @@ body {
 
 h1 {
     font-family: 'Rowdies', cursive;
-    color: #FBDFD8;
+    font-size: 55px;
+    color: #1D0E0B;
     margin: 20px 0;
 }
 
 h2 {
-    font-family: 'Shadows Into Light', cursive;
-    color: #AEEBF3;
+    font-family: 'Rowdies', cursive;
+    color: #1D0E0B;
+    margin: 20px 0;
+}
+
+h3 {
+    font-family: 'Shadows into light', sans-serif;
+    color: #1D0E0B;
+    font-size: 24px;
+    margin: 10px ;
+}
+
+p {
+    font-family: 'Shadows into light', sans-serif;
+    color: #FBA2A2;
+    font-size: 18px;
     margin: 10px 0;
+}
+
+
+#start-btn {
+    background-color: #1D0E0B;
+    border: none;
+    cursor: pointer;
+    font-size: 24px;
+    margin: 10px 0;
+    border-color: #1D0E0B;
+}
+
+#start-btn:hover {
+    transform: scale(1.1); 
+    background-color: #FBA2A2;
 }
 
 #choices img {
@@ -26,6 +56,7 @@ h2 {
     cursor: pointer;
     margin: 10px;
 }
+
 #rock-btn {
     background-image: url('../images/rock.png');
     background-size: cover;
@@ -81,7 +112,7 @@ h2 {
 
 #reset-btn:hover {
     transform: scale(1.1); 
-    background-color: #FFDCAB;
+    background-color: #FBA2A2;
 }
 
 #home-btn {
@@ -95,7 +126,7 @@ h2 {
 
 #home-btn:hover {
     transform: scale(1.1);
-    background-color: #FFDCAB; 
+    background-color: #FBA2A2; 
 }
 
 #score, #round {
