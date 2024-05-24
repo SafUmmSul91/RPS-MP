@@ -31,17 +31,17 @@ To run tests for this project using Jest:
 4. Run tests using the command `npm test`.
 ## Styling 
 
-![Project Styling](images/styling.png)
-![Background](images/background.png)
-![Button image](images/rock.png)
-![Button image](images/paperr.png)
-![Button image](images/scissors.png)
+- ![Project Styling](assets/images/styling.png)
+- ![Background](assets/images/background.png)
+- ![Button image](assets/images/rock.png)
+- ![Button image](assets/images/paperr.png)
+- ![Button image](assets/images/scissors.png)
 
 ## Languages Used
 
-HTML5
-CSS
-JavaScript
+- HTML5
+- CSS
+- JavaScript
 
 ## Frameworks,Libraries & Programs
 
