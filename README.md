@@ -47,12 +47,12 @@ To run tests for this project using Jest:
 
 ## Frameworks,Libraries & Programs
 
-- **Bootstrap**[](https://getbootstrap.com): Responsiveness and Styling
-- **Google Fonts**[](https://fonts.google.com/): Fonts used in the project.
-- **FontAwesome**[](https://fontawesome.com/): Icons used in the project.
-- **Coolors.co**[Coolors](Coolors.co): Used for generating colour palettes. 
-- **Canva.com**: Used for creating images for choices and background.
-- **YouTube & FreeCodeCamp.org**: Sources of inspiration and learning.[Learn JavaScript by Building 7 Games](https://www.youtube.com/watch?v=ec8vSKJuZTk&t=326s)
+- [**Bootstrap**](https://getbootstrap.com): Responsiveness and Styling
+- [**Google Fonts**](https://fonts.google.com/): Fonts used in the project.
+- [**FontAwesome**](https://fontawesome.com/): Icons used in the project.
+- [**Coolors.co**](Coolors.co): Used for generating colour palettes. 
+- [**Canva.com**](Canva.com): Used for creating images for choices and background.
+- [**YouTube & FreeCodeCamp.org**](https://www.youtube.com/watch?v=ec8vSKJuZTk&t=326s): Sources of inspiration and learning.[Learn JavaScript by Building 7 Games](https://www.youtube.com/watch?v=ec8vSKJuZTk&t=326s) -- I used the code given in the first part of this video and built up from it --
 - **CodeInstitute GitHub Repository Template**: Used as a project structure template.
 
 ## Testing
